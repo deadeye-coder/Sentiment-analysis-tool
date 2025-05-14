@@ -80,7 +80,7 @@ analyzer.visualize_sentiment_vs_price(stock_data, None)
 ```
 
 ## API Keys
-NewsAPI key ="2dc72496b0464fadacea7d5621634812"
+
 To use the full functionality of this tool, you'll need API keys for:
 
 1. **News API**: [NewsAPI](https://newsapi.org/) (Free tier available)
